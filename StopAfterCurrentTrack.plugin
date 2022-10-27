@@ -1,5 +1,5 @@
 [Plugin]
-Loader=python
+Loader=python3
 Module=StopAfterCurrentTrack
 IAge=2
 Name=Stop After Current Track
