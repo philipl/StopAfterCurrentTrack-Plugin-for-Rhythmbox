@@ -1,9 +1,9 @@
 from gi.repository import Gtk, GObject, RB, Peas
 
-from rb3compat import ActionGroup
-from rb3compat import Action
-from rb3compat import ApplicationShell
-from rb3compat import is_rb3
+from .rb3compat import ActionGroup
+from .rb3compat import Action
+from .rb3compat import ApplicationShell
+from .rb3compat import is_rb3
 
 
 
